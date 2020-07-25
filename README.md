@@ -8,7 +8,7 @@ It is built natively as a set of micro-services, making development and integrat
 
 # This Project Intends to Explain How CRUD Operations Can Be Done With Harper Cloud!
 
-  - Visit studio.harperdb.io to get started.
+  - Visit <a href="https://studio.harperdb.io">Harperdb Studio</a> to get started.
 
 
 
